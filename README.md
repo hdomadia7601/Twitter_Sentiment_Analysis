@@ -13,6 +13,7 @@ The primary objectives of the project are:
 4.To visualize the results of the sentiment analysis to gain insights into public opinion
 
 **Libraries Used**
+
 1.NLTK (Natural Language Toolkit)
 
 Purpose: NLTK is a popular Python library used for natural language processing (NLP) tasks. It provides tools for text processing, tokenization, stemming, and tagging.
