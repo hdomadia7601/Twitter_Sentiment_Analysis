@@ -4,7 +4,10 @@ The Twitter Sentiment Analysis project is a natural language processing (NLP) an
 **Project Objectives**
 The primary objectives of the project are:
 
-To collect and preprocess tweets related to a specific topic or event
-To develop a machine learning model that can accurately classify tweets as positive, negative, or neutral
-To evaluate the performance of the model using various evaluation metrics
-To visualize the results of the sentiment analysis to gain insights into public opinion
+1.To collect and preprocess tweets related to a specific topic or event
+
+2.To develop a machine learning model that can accurately classify tweets as positive, negative, or neutral
+
+3.To evaluate the performance of the model using various evaluation metrics
+
+4.To visualize the results of the sentiment analysis to gain insights into public opinion
